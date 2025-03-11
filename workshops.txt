@@ -7,7 +7,7 @@
 6. https://drive.google.com/file/d/1Bzi4rgyYgYl_wFFPGc3tNh9AVfCyb1LP/view (11-12 ლექცია optional chaining (?) + react fragments (<> </>) + Short-circuit evaluation (&&))
 7. https://drive.google.com/file/d/1gFWhODOMSs6Q3UIQtJh74E_8zk-cZapU/view (13-14 ლექცია children pattern)
 8. https://drive.google.com/file/d/1D5ByH48a2xyvQ-LAN5ksb9J8TZUs1SGd/view (15-16 ლექცია use reducer)
-9. https://drive.google.com/file/d/1GYPVNZpxtH08yMSfQ9t8PoyE4ttEBQZD/view
+9. https://drive.google.com/file/d/1GYPVNZpxtH08yMSfQ9t8PoyE4ttEBQZD/view (17-18 ლექცია routers, json-server)
 10. https://drive.google.com/file/d/1xz5Eklg54VDC5YxFN3SXldC3vZG21_2a/view
 11. https://drive.google.com/file/d/1O5iof9MRKGCqmP3vDK3Z0G5hm6xU-ZU5/view
 12. https://drive.google.com/file/d/15M8GsKhq9r8rTDdxj3DZxAvOATtr86cA/view
